@@ -6,4 +6,4 @@ matplotlib
 plotly
 numpy
 time
-spicy.stats
+scipy.stats
