@@ -1,9 +1,0 @@
-scikit-learn
-streamlit
-pandas
-seaborn
-matplotlib
-plotly
-numpy
-time
-scipy
